@@ -1,0 +1,17 @@
+{
+  "name": "fnGh4",
+  "blockId": "cmDv8-qadmZy9oOwEqlwO",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/fnGh4",
+    "ssh": "git@github.com:Digambaran/fnGh4.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false,
+  "supportedAppblockVersions": [
+    "2.0.0"
+  ]
+}
